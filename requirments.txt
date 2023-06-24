@@ -1,0 +1,11 @@
+easyfsl
+tqdm
+numpy
+matplotlib
+opencv-python
+openpyxl
+scikit-learn
+scipy
+spectral
+scikit-image
+hdf5storage
